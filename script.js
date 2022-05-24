@@ -91,7 +91,7 @@ window.onload = () => {
           </li>
           <li class="list-group-item p-3">
             <span class="fw-normal">Category : </span>
-            <span class="text-bg-primary p-2 rounded">${data.strArea}</span>
+            <span class="text-bg-primary p-2 rounded">${data.strCategory}</span>
           </li>
           <li class="list-group-item p-3">
             <span class="fw-normal">Instructions : </span>
