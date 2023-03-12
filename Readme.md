@@ -34,4 +34,4 @@ git clone https://github.com/candradwicahyo/recipe-app.git
 
 ![preview](https://github.com/candradwicahyo/recipe-app/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/recipe-app)
+[tekan link ini](https://candradwicahyo.github.io/recipe-app) untuk mencoba demo
